@@ -21,7 +21,7 @@ _Why didn't we do the thing you asked?_
 We won't build every request. As Point 1 illustrates, life is too painful to build even the "small" batch of ones we have already. Instead, we'll look for patterns in y'all's feedback and build the features most often requested. 
 
 ## How to Request a Feature
-Submit an issue to this repository. An issue is basically an email; some text, maybe an image and some links that notifies the addressee that they need to give you some of their time. 
+Submit an issue to this repository. An issue is basically an email; some text, maybe an image and some links that notifies the addressee (us) that we need to give you some of our time. 
 
 See the circle with the exclamation point in the icon menu to the right? That's the issue button. Click it to open an issue, then type in what you want to request from us. Then click the "Submit" button and we'll be notified of your request. 
 
