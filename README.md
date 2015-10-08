@@ -8,7 +8,7 @@ We at TRIXEL wanted to set up a channel for y'all to tell us about the shortcomi
 ## How to Request a Feature
 Submit an issue to this repository. An issue is basically an email; some text, maybe an image and some links that notifies the addressee (us) that we need to give you some of our time. 
 
-See the **circle with the exclamation point** in the icon menu to the right? That's the issue button. Click it to open an issue, click **Create an issue** then type in what you want to request from us. Then click the "Submit" button and we'll be notified of your request. 
+See the **circle with the exclamation point** in the icon menu to the right? That's the issue button. Click it to open an issue, click the green **New Issue** button, then type in what you want to request from us. Then click the "Submit" button and we'll be notified of your request. 
 
 ### What should you include?
 Well, you can do whatever you want #SatreLife. We can't police your keyboards, ya dig? </br>
