@@ -1,6 +1,8 @@
 # TRIXEL Feature Requests
 Keeping track of stuff people want to see in TRIXEL
 
+![What's Next](http://i.imgur.com/qdAV1wR.png?2)
+
 ## What's this all about?
 A place for TRIXELians to request new features and any other changes, bug fixes, pizza orders etc to TRIXEL. 
 We at TRIXEL wanted to set up a channel for y'all to tell us about the shortcomings of our work. Tear us apart, yo!
